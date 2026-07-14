@@ -1,0 +1,11 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="520" height="640" viewBox="0 0 520 640" role="img" aria-label="Portrait asset pending">
+  <rect width="520" height="640" fill="#0c1220"/>
+  <path d="M64 118h186v58h106v86h100M62 520h130v-86h114v-72h130M76 322h120v-70h92" fill="none" stroke="#2f7df6" stroke-width="3" opacity=".55"/>
+  <circle cx="250" cy="118" r="7" fill="#63a4ff"/>
+  <circle cx="356" cy="176" r="7" fill="#63a4ff"/>
+  <circle cx="306" cy="434" r="7" fill="#63a4ff"/>
+  <rect x="94" y="210" width="332" height="316" rx="8" fill="#111a2c" stroke="#23314b"/>
+  <path d="M156 456h208v34H156zM185 288h150v132H185z" fill="#122b50"/>
+  <path d="M185 288h150v132H185z" fill="none" stroke="#63a4ff" stroke-width="2"/>
+  <text x="260" y="470" fill="#f4f7fb" font-family="Arial, sans-serif" font-size="24" text-anchor="middle">MYB</text>
+</svg>
